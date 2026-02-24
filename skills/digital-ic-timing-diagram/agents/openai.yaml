@@ -1,0 +1,3 @@
+interface:
+  display_name: "Digital IC Timing Diagram"
+  short_description: "Create and validate digital timing waveforms"
